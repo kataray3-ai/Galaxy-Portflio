@@ -1,0 +1,6 @@
+{
+  "name": "Digital Yamini — Galaxy Portfolio",
+  "description": "Interactive 3D galaxy portfolio for Yamini Katara (Digital Yamini), Google & Meta-certified Digital Marketing and Generative AI Trainer, Consultant, and Strategist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
